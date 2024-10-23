@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amor, Justicia y Paz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff6347;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background-color: #ffffff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Amor, Justicia y Paz</h1>
+
+    <section>
+        <h2>Amor</h2>
+        <p>El amor es el vínculo que une a la humanidad. Es la fuerza que nos motiva a cuidar y respetar a los demás.</p>
+    </section>
+
+    <section>
+        <h2>Justicia</h2>
+        <p>La justicia busca la igualdad y la equidad. Es fundamental para construir sociedades donde todos tengan voz y derechos.</p>
+    </section>
+
+    <section>
+        <h2>Paz</h2>
+        <p>La paz es el estado que todos deseamos. Solo se logra a través del entendimiento, la tolerancia y el amor hacia los demás.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Reflexiones sobre Amor, Justicia y Paz</p>
+    </footer>
+</body>
+</html>
